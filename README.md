@@ -1,2 +1,4 @@
-# Steven-s-License
-My take on visible online code licensing
+# Steven's License
+*"This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age."*
+
+Steven's License is my attempt to solve a big issue with hosting code online: **commercial use**. Most "open source" licenses allow for full commercial use without regard to the size or economic footprint of the business seeking to use the code. While this idea feels very alturistic, it has been increasingly abused by some of the largest and richest entities in the world to effectively offload a large portion of their development work onto the technology community at large. This means that these entities are essentially getting _free labor_ for code that was never intended to be used in that manner. This license is my attempt to rectify this situation, and help restore developer confidence in saying **no** to unpaid work requested by wealthy large firms.
